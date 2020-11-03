@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  ssoc-ui:
+    container_name: ssoc-ui
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - "/opt/ssoc-next/ui-dist:/home/node/app/dist"

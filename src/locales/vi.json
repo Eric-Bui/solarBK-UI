@@ -1,0 +1,226 @@
+{
+    "loginPage": {
+        "username": "Tên đăng nhập",
+        "password": "Mật khẩu",
+        "changepassword": "Đổi mật khẩu ?",
+        "login": "Đăng nhập",
+        "loginwith": "Đăng nhập với",
+        "copyright": "Bản quyền &#169; 2019 SolarBK, Bao gồm tất cả các quyền",
+        "copyrightcontent": "Mọi thông tin, bài viết, hình ảnh trên website này thuộc bản quyền của SolarBK",
+        "contactinfo": "Thông tin liên hệ: 47 Lê Văn Thịnh, khu phố 5, P. Bình Trưng Đông, Q. 2, TP. HCM, Việt Nam. Hotline:"
+    },
+    "redirectPage": {
+        "redirecting": "Đang điều hướng"
+    },
+    "adminHomePage": {
+        "dashboard": "Bảng điều khiển",
+        "admininfo": "Thông tin quản trị viên",
+        "project": "Dự án",
+        "logout": "Đăng xuất",
+        "clear": "Xóa"
+    },
+    "searchResult": {
+        "projectname": "Tên dự án",
+        "investtype": "Loại đầu tư",
+        "viewproject": "Xem dự án",
+        "editproject": "Sửa dự án"
+    },
+    "adminOverviewPage": {
+        "logstation": "Trạm Ghi",
+        "search": "Tra cứu",
+        "activities": "Số hành động",
+        "lostconnect": "Số dự án mất kết nối",
+        "activitieslog": "Bản ghi hành động",
+        "errorlog": "Bản ghi lỗi",
+        "systemstatus": "Trạng thái hệ thống",
+        "totalproject": "Tổng dự án",
+        "normalproject": "Tổng dự án bình thường",
+        "warningproject": "Tổng dự án cảnh báo",
+        "errorproject": "Tổng dự án lỗi"
+    },
+
+    "activitymodal": {
+        "activitydetail": "Chi tiết hành động ",
+        "loginfo": "Thông tin bản ghi",
+        "actor": "Tác nhân",
+        "projectid": "ID dự án",
+        "action": "Hành động",
+        "inputinfo": "Dữ liệu đã nhập",
+        "serial": "Số Seri",
+        "module": "Hệ",
+        "device": "Mẫu thiết bị",
+        "system": "Hệ thống",
+        "projecttype": "Loại dự án",
+        "numberofinv": "Số lượng Inverter",
+        "numberofmppt": "Số lượng MPPT",
+        "communication": "Chuẩn giao tiếp",
+        "activedate": "Ngày bắt đầu",
+        "expiredate": "Ngày hết hạn",
+        "latlong": "Kinh độ vĩ độ",
+
+        "customername": "Tên khách hàng",
+        "fullname": "Tên đầy đủ",
+        "birthday": "Sinh nhật",
+        "phone": "Số điện thoại",
+        "address": "Địa chỉ",
+        "country": "Quốc gia",
+        "province": "Tỉnh",
+        "district": "Thành phố/Huyện",
+        "ward": "Phường",
+        "fulladdress": "Địa chỉ đầy đủ",
+        "insuranapply": "Bảo hiểm áp dụng",
+        "insuranrate": "Tỷ lệ bảo hiểm",
+        "simulatorrate": "Tỷ lệ mô phỏng",
+
+        "modulestatus": "Trạng thái hệ",
+        "department": "Phòng ban",
+        "job": "Công việc"
+    },
+
+    "projecttype": {
+        "projectof": "Dự án thuộc",
+        "filterdata": "Lọc dữ liệu",
+        "all": "Tất cả",
+        "swh": "Hệ máy nước nóng",
+        "pv": "Hệ Pv áp mái",
+        "investdirect": "Trực tiếp",
+        "devicestatus": "Trạng thái thiết bị"
+    },
+
+    "leftbarPV": {
+        "systemoverview": "Tổng quan hệ thống",
+        "staticreport": "Thống kê & báo cáo",
+        "warranty": "Bảo hành",
+        "maintain": "Bảo trì",
+        "option": "Tùy chọn",
+        "homepage": "Trang chủ",
+        "recruitment": "tuyển dụng",
+        "contact": "Liên hệ",
+        "connectstatus": "TRẠNG THÁI KẾT NỐI",
+        "signal": "Tín hiệu",
+        "setting": "Tùy chọn"
+    },
+
+    "overviewPVpage": {
+        "pvpowerwidget": "CÔNG SUẤT TỨC THỜI HỆ PV",
+        "pvloadwidget": "CÔNG SUẤT TỨC THỜI CẤP CHO TẢI",
+        "todayproduction": "NĂNG LƯỢNG SẢN XUẤT TRONG NGÀY",
+        "totalproduction": "TỔNG NĂNG LƯỢNG PV SẢN XUẤT",
+        "tariff3": "Tổng sản lượng PV sản xuất theo khung giờ",
+        "highpoint": "Cao điểm",
+        "mediumpoint": "Trung bình",
+        "lowpoint": "Thấp điểm",
+        "pvloadused": "NĂNG LƯỢNG TẢI SỬ DỤNG",
+        "moneysave": "TỔNG TIỀN TIẾT KIỆM",
+        "contractpride": "Giá điện hợp đồng",
+        "referpride": "Giá điện tham khảo",
+        "vat": "Chưa bao gồm VAT",
+        "co2reduct": "TỔNG LƯỢNG GIẢM PHÁT THẢI CO<sub>2</sub>",
+        "ton": "Tấn",
+        "todayconsump": "NĂNG LƯỢNG TIÊU THỤ TRONG NGÀY",
+        "totalconsump": "TỔNG NĂNG LƯỢNG TIÊU THỤ",
+        "generatorstatus": "TRẠNG THÁI MÁY PHÁT ĐIỆN",
+        "battery": "ẮC QUY",
+        "dcvolt": "ĐIỆN ÁP DC HỆ PV",
+        "variable": "BIẾN SỐ",
+        "devicestatus": "TRẠNG THÁI THIẾT BỊ",
+        "updateat": "Thời gian cập nhật",
+        "inverterbattery": "THÔNG SỐ BATTERY INVERTER",
+        "invertersolar": "THÔNG SỐ SOLAR INVERTER",
+        "todaypvpower": "CÔNG SUẤT PV TRONG NGÀY",
+        "insurancechart": "BIỂU ĐỒ BẢO HIỂM SẢN LƯỢNG",
+        "productionchartbydate": "NĂNG LƯỢNG PV SẢN XUẤT THEO NGÀY",
+        "prductionchartbymonth": "NĂNG LƯỢNG PV SẢN XUẤT THEO THÁNG",
+        "viewbydate": "Xem theo ngày",
+        "viewbymonth": "Xem theo tháng",
+        "chartdescript": "Con lăn: Phóng to/Thu nhỏ, Chuột trái: Kéo",
+        "labelstrpr": "Tỷ lệ bức xạ",
+        "labelstrproduced": "Năng lượng sản xuất",
+        "todaypvchart": "Biểu đồ công suất trong ngày",
+        "labelstrpvpower": "Công suất PV trong ngày"
+    },
+
+    "datepick": {
+        "selecttime": "Chọn thời gian hiển thị",
+        "from": "Từ",
+        "to": "Đến",
+        "selectdate": "Chọn ngày để hiển thị",
+        "selectmonth": "Chọn tháng và năm để hiển thị",
+        "selectyear": "Chọn năm để hiển thị",
+        "synthetic": "Tổng hợp",
+        "viewstatic": "XEM THỐNG KÊ",
+        "viewdetail": "Xem chi tiết",
+        "viewbyyear": "Xem theo năm",
+
+        "showhide": "Ẩn/Hiện thông số",
+        "viewstaticbtn": "Xem thống kê",
+        "sumpv": "Công suất tức thời hệ PV",
+        "totalpv": "Tổng công suất PV",
+        "sumload": "Công suất tức thời cấp cho tải",
+        "timer": "Tổng số giờ hoạt động",
+        "todayprod": "Năng lượng sản xuất trong ngày",
+        "totalprod": "Tổng năng lượng sản xuất",
+        "radiation": "Bức xạ mặt trời",
+        "totalradiation": "Tổng bức xạ mặt trời",
+        "inverterpower": "Công suất tức thời Inverter",
+        "chargepower": "Công suất sạc tức thời",
+        "totalmoneysave": "Tổng tiền tiết kiệm",
+        "energyconsume": "Năng lượng tiêu thụ trong ngày",
+        "totalenergyconsume": "Tổng năng lượng tiêu thụ",
+        "pconsump": "Công suất tiêu thụ tức thời",
+        "cabinetpower": "Công suất tiêu thụ tức thời tủ trung gian",
+        "pumppower": "Công suất tiêu thụ tức thời bơm cấp",
+        "boosterpower": "Công suất tiêu thụ tức thời bơm tăng áp",
+        "serverroom": "Công suất tiêu thụ tức thời phòng máy chủ",
+        "elevator": "Công suất tiêu thụ tức thời thang máy",
+        "elevatorene": "Năng lượng tiêu thụ thang máy",
+        "aircon": "Công suất tiêu thụ tức thời máy lạnh",
+        "airconene": "Năng lượng tiêu thụ máy lạnh",
+        "monthprod": "Năng lượng sản xuất theo tháng",
+        "yearprod": "Năng lượng sản xuất theo năm",
+        "consump": "Công suất tiêu thụ"
+    },
+
+    "warrantypage": {
+        "generalinfo": "THÔNG TIN CHUNG",
+        "customername": "Tên khách hàng",
+        "warrantyno": "Số bảo hành",
+        "contractno": "Số hợp đồng",
+        "setupdate": "Ngày lắp đặt",
+        "systemcode": "Mã hệ thống",
+        "providercode": "Mã nhà phân phối",
+        "provideraddress": "Địa chỉ nhà phân phối",
+        "warrantyinfo": "THÔNG TIN BẢO HÀNH",
+        "systemcapacity": "Công suất hệ thống",
+        "maintaininfo": "THÔNG TIN BẢO TRÌ",
+        "maintainperiod": "KỲ BẢO TRÌ HỆ THỐNG"
+    },
+
+    "mostused": {
+        "weather": "Thông tin thời tiết",
+        "consump": "TIÊU THỤ",
+        "today": "HÔM NAY",
+        "total": "TỔNG",
+        "capacity": "Công suất",
+        "project": "Dự án",
+        "projectinfo": "Thông tin dự án",
+        "fullnameproject": "Tên đầy đủ dự án",
+        "projectspecification": "Thông số dự án"
+    },
+
+    "table": {
+        "totallabel": "Tổng cộng",
+        "row": "Dòng",
+        "record": "Bản ghi"
+    },
+
+    "warningmodal": {
+        "warningtitle": "Cảnh báo",
+        "warningcontent": "Không thể truy cập người dùng",
+        "warningselect": "Chọn ít nhất 1 biến"
+    },
+    "errormodal": {
+        "errortitle": "Tác vụ thất bại",
+        "errorcontent": "Đã có lỗi xảy ra"
+    }
+}

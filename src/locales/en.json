@@ -1,0 +1,227 @@
+{
+    "loginPage": {
+        "username": "User Name",
+        "password": "Password",
+        "changepassword": "Change Password ?",
+        "login": "Login",
+        "loginwith": "Login with",
+        "copyright": "Copyright &#169; 2019 SolarBK, All rights reserved",
+        "copyrightcontent": "All information, articles, images on this website are copyright of SolarBK",
+        "contactinfo": "Contact information: 47 Le Van Thinh, Town 15, Ward Binh Trung Dong, District 2, HCM City, Viet Nam. Hotline:"
+    },
+    "redirectPage": {
+        "redirecting": "Redirecting"
+    },
+    "adminHomePage": {
+        "dashboard": "Dash board",
+        "admininfo": "Admin Information",
+        "project": "Projects",
+        "logout": "Logout",
+        "clear": "Clear"
+    },
+    "searchResult": {
+        "projectname": "Project name",
+        "investtype": "Invest type",
+        "viewproject": "View project",
+        "editproject": "Edit project"
+    },
+    "adminOverviewPage": {
+        "logstation": "Log Station",
+        "search": "Search",
+        "activities": "Number of activities",
+        "lostconnect": "Number of lost connect",
+        "activitieslog": "Activities Log",
+        "errorlog": "Errors Log",
+        "systemstatus": "System Status",
+        "totalproject": "Total Project",
+        "normalproject": "Normal Project",
+        "warningproject": "Warning Project",
+        "errorproject": "Error Project"
+    },
+
+    "activitymodal": {
+        "activitydetail": "Activity detail of ",
+        "loginfo": "Log information",
+        "actor": "Actor",
+        "projectid": "Project ID",
+        "action": "Action",
+        "inputinfo": "Input data",
+        "serial": "Serial",
+        "module": "Module",
+        "device": "Template device",
+        "system": "System",
+        "projecttype": "Project type",
+        "numberofinv": "Number of Inverter",
+        "numberofmppt": "Number of MPPT",
+        "communication": "Communication",
+        "activedate": "Active day",
+        "expiredate": "Expire day",
+        "latlong": "Latitude and longitude",
+
+        "customername": "Customer name",
+        "fullname": "Customer full name",
+        "birthday": "Birthday",
+        "phone": "Phone",
+        "address": "Address",
+        "country": "Country",
+        "province": "Province",
+        "district": "City/District",
+        "ward": "Ward",
+        "fulladdress": "Full address",
+        "insuranapply": "Insurance",
+        "insuranrate": "Insurance Rate",
+        "simulatorrate": "Simulator Rate",
+
+        "modulestatus": "Module staus",
+        "department": "Department",
+        "job": "Job"
+    },
+
+    "projecttype": {
+        "projectof": "Projects of",
+        "filterdata": "Data filter",
+        "all": "All",
+        "swh": "Water heater system",
+        "pv": "PV Rooftop",
+        "investdirect": "Direct",
+        "devicestatus": "Device status"
+    },
+
+    "leftbarPV": {
+        "systemoverview": "System Overview",
+        "staticreport": "Statistics & Reports",
+        "warranty": "Warranty",
+        "maintain": "Maintenance",
+        "option": "Options",
+        "homepage": "Home Page",
+        "recruitment": "Recruitment",
+        "contact": "Contact",
+        "connectstatus": "CONNECTION STATUS",
+        "signal": "Signal",
+        "setting": "Setting"
+    },
+
+    "overviewPVpage": {
+        "pvpowerwidget": "PV SYSTEM INSTANTANEOUS POWER",
+        "pvloadwidget": "INSTANTANEOUS CAPACITY FOR LOAD",
+        "todayproduction": "TODAY ENERGY PRODUCED",
+        "totalproduction": "TOTAL ENERGY PRODUCED",
+        "tariff3": "Total PV production produced by time frame",
+        "highpoint": "High Point",
+        "mediumpoint": "Medium Point",
+        "lowpoint": "Low Point",
+        "pvloadused": "ENERGY LOAD USED",
+        "moneysave": "TOTAL MONEY SAVED",
+        "contractpride": "Contract electricity price",
+        "referpride": "Reference electricity price",
+        "vat": "VAT Tax not included",
+        "co2reduct": "TOTAL CO<sub>2</sub> REDUCTION",
+        "ton": "Ton",
+        "todayconsump": "TODAY POWER CONSUMPTION",
+        "totalconsump": "TOTAL POWER CONSUMPTION",
+        "generatorstatus": "GENERATOR STATUS",
+        "battery": "BATTERY",
+        "dcvolt": "DC VOLTAGE OF PV SYSTEM",
+        "variable": "VARIABLES",
+        "devicestatus": "DEVICE STATUS",
+        "updateat": "Updated at",
+        "inverterbattery": "INVERTER BATTERY PARAMETERS",
+        "invertersolar": "INVERTER SOLAR PARAMETERS",
+        "todaypvpower": "TODAY PV POWER",
+        "insurancechart": "PRODUCTION INSURANCE CHART",
+        "productionchartbydate": "ENERGY PRODUCTION PV BY DATE",
+        "prductionchartbymonth": "ENERGY PRODUCTION PV BY MONTH",
+        "viewbydate": "View by date",
+        "viewbymonth": "View by month",
+        "chartdescript": "Roller: Zoom in / Zoom out, Left mouse button: Drag",
+        "energyconsume": "Energy consumed",
+        "labelstrpr": "Radiation rate",
+        "labelstrproduced": "Energy produced",
+        "todaypvchart": "Today power chart",
+        "labelstrpvpower": "Today PV Power"
+    },
+
+    "datepick": {
+        "selecttime": "Select display time",
+        "from": "From",
+        "to": "To",
+        "selectdate": "Select display date",
+        "selectmonth": "Select display month and year",
+        "selectyear": "Select display year",
+        "synthetic": "Synthetic",
+        "viewstatic": "VIEW STATISTICS",
+        "viewdetail": "View detail",
+        "viewbyyear": "View by year",
+        "showhide": "Hide/Show parameters",
+        "viewstaticbtn": "View statistic",
+
+        "sumpv": "PV system instantaneous power",
+        "totalpv": "Total PV power",
+        "sumload": "Instantaneous capacity for load",
+        "timer": "Total operation hours",
+        "todayprod": "Date energy produced",
+        "totalprod": "Total energy produced",
+        "radiation": "Solar radiation",
+        "totalradiation": "Total Radiation",
+        "inverterpower": "Inverter instantaneous power",
+        "chargepower": "Charging instantaneous power",
+        "totalmoneysave": "Total money save",
+        "monthprod": "Month energy produced",
+        "yearprod": "Year energy produced",
+        "energyconsume": "Date energy consumption",
+        "totalenergyconsume": "Total energy consumption",
+        "pconsump": "Date instantaneous power consumption",
+        "cabinetpower": "Cabinet instantaneous power consumption",
+        "pumppower": "Supplier pump instantaneous power consumption",
+        "boosterpower": "Pressure pump instantaneous power consumption",
+        "serverroom": "Server room instantaneous power comsumption",
+        "elevator": "Elevator instantaneous power consumption",
+        "elevatorene": "Elevator energy consumption",
+        "aircon": "Air-conditoner instantaneous power consumption",
+        "airconene": "Air-conditoner energy consumption",
+        "consump": "Power consumption"
+    },
+
+    "warrantypage": {
+        "generalinfo": "GENERAL INFORMATION",
+        "customername": "Customer name",
+        "warrantyno": "Warranty number",
+        "contractno": "Contract number",
+        "setupdate": "Setup day",
+        "systemcode": "System code",
+        "providercode": "Provider code",
+        "provideraddress": "Provider address",
+        "warrantyinfo": "WARRANTY INFORMATION",
+        "systemcapacity": "System capacity",
+        "maintaininfo": "MAINTENANCE INFORMATION",
+        "maintainperiod": "SYSTEM MAINTENANCE PERIOD"
+    },
+
+    "mostused": {
+        "weather": "Weather infomation",
+        "consump": "CONSUME",
+        "today": "TODAY",
+        "total": "TOTAL",
+        "capacity": "Capacity",
+        "project": "Project",
+        "projectinfo": "Project information",
+        "fullnameproject": "Project full name",
+        "projectspecification": "Project specifications"
+    },
+
+    "table": {
+        "totallabel": "Total",
+        "row": "Rows",
+        "record": "Records"
+    },
+
+    "warningmodal": {
+        "warningtitle": "Warning",
+        "warningcontent": "Can not access this project",
+        "warningselect": "Select at least 1 variable"
+    },
+    "errormodal": {
+        "errortitle": "The task failed",
+        "errorcontent": "An error occurred"
+    }
+}
